@@ -9,7 +9,7 @@ This python script helps to add, remove and delete contacts on Sendgrid via API.
 OS X & Linux or Windows:
 
 1. Change "---YOUR-API-KEY-HERE---" with your API key that you can get an API from Sendgrid. 
-You can [read](https://sendgrid.com/docs/ui/account-and-settings/api-keys/){:target="_blank"} this document.
+You can [read](https://sendgrid.com/docs/ui/account-and-settings/api-keys/) this document.
 2. python sendgrid-api.py
 
 ## Release History
