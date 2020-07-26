@@ -10,7 +10,7 @@ OS X & Linux or Windows:
 
 ```sh
 1. Change "---YOUR-API-KEY-HERE---" with your API key that you can get an API from Sendgrid. You [read](https://sendgrid.com/docs/ui/account-and-settings/api-keys/) can this document.
-python sendgrid-api.py
+2. python sendgrid-api.py
 ```
 2. python sendgrid-api.py
 
