@@ -2,7 +2,7 @@
 
 This python script helps to add, remove and delete contacts on Sendgrid via API.
 
-![](header.png)
+![](https://sedatozdemir.com.tr/wp-content/uploads/2020/07/ScreenShot.png)
 
 ## Usage
 
